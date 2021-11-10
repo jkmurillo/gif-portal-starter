@@ -29,13 +29,6 @@ const opts = {
 // Constants
 const TWITTER_HANDLE = '_buildspace';
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
-const TEST_GIFS = [
-  'https://media.giphy.com/media/eeUJaTwsHh3tswkaYm/giphy.gif',
-  'https://media.giphy.com/media/SWzxAsBog0UxbnttYF/giphy.gif',
-  'https://media.giphy.com/media/fnlXXGImVWB0RYWWQj/giphy.gif',
-  'https://media.giphy.com/media/IdgY2UlsldmhsxHpec/giphy.gif',
-  'https://media.giphy.com/media/WEiKBTaESHHhK/giphy.gif'
-]
 
 const App = () => {
   /*
